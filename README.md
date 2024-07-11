@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
 
 6. **Access the Application**
 
-    Open your web browser and go to [http://localhost:8090](http://localhost:8090) to view the application.
+    Open your web browser and go to [http://localhost:8070](http://localhost:8070) to view the application.
 
 ## Usage
 
